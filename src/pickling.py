@@ -10,6 +10,3 @@ aFile = open(shoplistfile, 'wb')
 p.dump(shoplist, aFile)
 aFile.close()
 
-'''
-增加注释
-'''
